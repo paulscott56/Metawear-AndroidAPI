@@ -12,3 +12,5 @@ Documentation of the API and a "Getting Started" guide are available on the Mbie
 
 ### Build ###
 The API was created with Android Developer Tools v22.6.2-1085508 and is targeted to the Android 4.4.2 (API 19) SDK with Android 4.3 (API 18) as the minimum required SDK .  To build the library, import the project into Eclipse and select Project -> Build Project.  The build will produce a jar file, metawearapi.jar, in the bin folder.
+
+Please ensure that your project JDK compliance level is 1.7.
